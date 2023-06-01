@@ -1,6 +1,6 @@
 function hello(str) {
     return (
-        `Hello,  ${str}`
+        `Hello,  ${str}!`
     )
 };
 
